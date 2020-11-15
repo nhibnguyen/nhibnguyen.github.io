@@ -1015,7 +1015,7 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #e07a5f;
+  background: #fec89a;
   border: 0.1rem solid #000000;
   color: #000;
 }
@@ -1031,7 +1031,7 @@ input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
   background: #f4a261;
-  border-color: #f4a261;
+  border-color: #000;
 }
 
 /* button modifiers
@@ -3368,6 +3368,9 @@ html.no-csstransitions .hero-content {
   margin-left: 8.33333%;
 }
 
+.footer-email-us {
+    margin-bottom: 50px;
+}
 /* ------------------------------------------------------------------- 
  * ## contact block
  * ------------------------------------------------------------------- */
