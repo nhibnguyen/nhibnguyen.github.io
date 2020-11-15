@@ -2369,6 +2369,12 @@ html.no-csstransitions .hero-content {
   }
 
 }
+    
+    
+@media screen and (max-width:1500px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
 
 @media screen and (max-width:1300px) {
   .hero-content {
@@ -2387,6 +2393,19 @@ html.no-csstransitions .hero-content {
   }
 
 }
+    
+    
+@media screen and (max-width:1300px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
+    
+@media screen and (max-width:1200px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
 
 @media screen and (max-width:1200px) {
   .hero-scroll {
@@ -2467,6 +2486,7 @@ html.no-csstransitions .hero-content {
 
 }
 
+
     
     
 @media screen and (max-width:600px) {
@@ -2480,6 +2500,12 @@ html.no-csstransitions .hero-content {
     font-size: 4.4rem;
     padding-right: 0;
   }
+    
+    
+@media screen and (max-width:500px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
 
 }
 
@@ -2487,6 +2513,14 @@ html.no-csstransitions .hero-content {
   .hero-content h1 {
     font-size: 4rem;
   }
+    
+    
+@media screen and (max-width:400px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
+    
 
     
 @media screen and (max-width:360px) {
