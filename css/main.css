@@ -2488,6 +2488,13 @@ html.no-csstransitions .hero-content {
 }
 
 
+@media screen and (max-width:500px) {
+  .s-hero {
+    background-image: url(/images/hero-bg-600.jpg);
+  }
+}
+
+
 @media screen and (max-width:400px) {
   .s-hero {
     background-image: url(/images/hero-bg-600.jpg);
