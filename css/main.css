@@ -2331,15 +2331,17 @@ html.no-csstransitions .hero-content {
  * hero
  * ------------------------------------------------------------------- */
 
+
 @media screen and (max-width:1800px) {
   .s-hero {
       background-color: #f8edeb;
   }
-    
+}
+
+
 @media screen and (max-width:1800px) {
-  .hero-content h1  {
+  .hero-content h1 {
     font-size: 6.3rem;
-     
   }
 
   .hero-content h1::before {
@@ -2354,14 +2356,15 @@ html.no-csstransitions .hero-content {
     max-width: 1200px;
   }
 
-    
-    
+}
+
 @media screen and (max-width:1700px) {
   .s-hero {
       background-color: #f8edeb;
   }
-    
 }
+
+
 
 @media screen and (max-width:1500px) {
   .hero-content {
@@ -2370,11 +2373,14 @@ html.no-csstransitions .hero-content {
 
 }
     
-    
 @media screen and (max-width:1500px) {
   .s-hero {
       background-color: #f8edeb;
   }
+}
+
+    
+
 
 @media screen and (max-width:1300px) {
   .hero-content {
@@ -2383,7 +2389,7 @@ html.no-csstransitions .hero-content {
 
   .hero-content h1 {
     font-size: 6rem;
-    padding-top: 2.2rem;
+    padding-top: 3.2rem;
   }
 
   .hero-content h1::before {
@@ -2399,12 +2405,10 @@ html.no-csstransitions .hero-content {
   .s-hero {
       background-color: #f8edeb;
   }
+}
+
     
-    
-@media screen and (max-width:1200px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
+
     
 
 @media screen and (max-width:1200px) {
@@ -2423,6 +2427,21 @@ html.no-csstransitions .hero-content {
 
 }
 
+@media screen and (max-width:1200px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+}
+
+
+@media screen and (max-width:1000px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+}
+
+
+
 @media screen and (max-width:1000px) {
   .hero-content h1 {
     font-size: 5.6rem;
@@ -2432,13 +2451,6 @@ html.no-csstransitions .hero-content {
     font-size: 1.1rem;
   }
 
-    
-    
-@media screen and (max-width:1000px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-    
 }
 
 @media screen and (max-width:800px) {
@@ -2458,14 +2470,15 @@ html.no-csstransitions .hero-content {
     height: 5.2rem;
     width: 5.2rem;
   }
-    
-    
+
+}
+
 @media screen and (max-width:800px) {
   .s-hero {
       background-color: #f8edeb;
   }
-
 }
+
 
 @media screen and (max-width:600px) {
   .hero-content h1 {
@@ -2486,56 +2499,54 @@ html.no-csstransitions .hero-content {
 
 }
 
-
-    
-    
 @media screen and (max-width:600px) {
   .s-hero {
       background-color: #f8edeb;
   }
-    
-    
+}
+
+
+
 @media screen and (max-width:500px) {
   .hero-content h1 {
     font-size: 4.4rem;
     padding-right: 0;
   }
-    
-    
+}
+
 @media screen and (max-width:500px) {
   .s-hero {
       background-color: #f8edeb;
   }
-
 }
+
+
 
 @media screen and (max-width:400px) {
   .hero-content h1 {
     font-size: 4rem;
   }
     
-    
+}
+
 @media screen and (max-width:400px) {
   .s-hero {
       background-color: #f8edeb;
   }
-    
-    
-
-    
-@media screen and (max-width:360px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-    
-    
 }
+
 
 @media screen and (max-width:360px) {
   .hero-content h1 {
     font-size: 3.8rem;
   }
 
+}
+
+@media screen and (max-width:360px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
 }
 
 
