@@ -2495,6 +2495,12 @@ html.no-csstransitions .hero-content {
 }
 
 
+@media screen and (max-width:360px) {
+  .s-hero {
+    background-image: url(/images/hero-bg-360.jpg);
+  }
+}
+
 
 /* ===================================================================
  * # about section
