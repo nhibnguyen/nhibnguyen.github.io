@@ -2490,14 +2490,14 @@ html.no-csstransitions .hero-content {
 
 @media screen and (max-width:400px) {
   .s-hero {
-    background-image: url(/images/hero-bg-400.jpg);
+    background-image: url(/images/hero-bg-600.jpg);
   }
 }
 
 
 @media screen and (max-width:360px) {
   .s-hero {
-    background-image: url(/images/hero-bg-360.jpg);
+    background-image: url(/images/hero-bg-600.jpg);
   }
 }
 
