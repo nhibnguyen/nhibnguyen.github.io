@@ -2330,9 +2330,16 @@ html.no-csstransitions .hero-content {
  * responsive:
  * hero
  * ------------------------------------------------------------------- */
+
 @media screen and (max-width:1800px) {
-  .hero-content h1 {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
+@media screen and (max-width:1800px) {
+  .hero-content h1  {
     font-size: 6.3rem;
+     
   }
 
   .hero-content h1::before {
@@ -2347,6 +2354,13 @@ html.no-csstransitions .hero-content {
     max-width: 1200px;
   }
 
+    
+    
+@media screen and (max-width:1700px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
 }
 
 @media screen and (max-width:1500px) {
@@ -2363,7 +2377,7 @@ html.no-csstransitions .hero-content {
 
   .hero-content h1 {
     font-size: 6rem;
-    padding-top: 3.2rem;
+    padding-top: 2.2rem;
   }
 
   .hero-content h1::before {
@@ -2399,6 +2413,13 @@ html.no-csstransitions .hero-content {
     font-size: 1.1rem;
   }
 
+    
+    
+@media screen and (max-width:1000px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
 }
 
 @media screen and (max-width:800px) {
@@ -2417,6 +2438,12 @@ html.no-csstransitions .hero-content {
   .hero-scroll .scroll-link {
     height: 5.2rem;
     width: 5.2rem;
+  }
+    
+    
+@media screen and (max-width:800px) {
+  .s-hero {
+      background-color: #f8edeb;
   }
 
 }
@@ -2440,6 +2467,14 @@ html.no-csstransitions .hero-content {
 
 }
 
+    
+    
+@media screen and (max-width:600px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
+    
 @media screen and (max-width:500px) {
   .hero-content h1 {
     font-size: 4.4rem;
@@ -2453,6 +2488,13 @@ html.no-csstransitions .hero-content {
     font-size: 4rem;
   }
 
+    
+@media screen and (max-width:360px) {
+  .s-hero {
+      background-color: #f8edeb;
+  }
+    
+    
 }
 
 @media screen and (max-width:360px) {
