@@ -2358,12 +2358,6 @@ html.no-csstransitions .hero-content {
 
 }
 
-@media screen and (max-width:1700px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
 
 
 @media screen and (max-width:1500px) {
@@ -2373,12 +2367,6 @@ html.no-csstransitions .hero-content {
 
 }
     
-@media screen and (max-width:1500px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
     
 
 
@@ -2401,11 +2389,6 @@ html.no-csstransitions .hero-content {
 }
     
     
-@media screen and (max-width:1300px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
 
     
 
@@ -2426,21 +2409,6 @@ html.no-csstransitions .hero-content {
   }
 
 }
-
-@media screen and (max-width:1200px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
-
-@media screen and (max-width:1000px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
-
 
 @media screen and (max-width:1000px) {
   .hero-content h1 {
@@ -2473,13 +2441,6 @@ html.no-csstransitions .hero-content {
 
 }
 
-@media screen and (max-width:800px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
-
 @media screen and (max-width:600px) {
   .hero-content h1 {
     font-size: 4.6rem;
@@ -2499,12 +2460,6 @@ html.no-csstransitions .hero-content {
 
 }
 
-@media screen and (max-width:600px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
 
 
 @media screen and (max-width:500px) {
@@ -2514,13 +2469,6 @@ html.no-csstransitions .hero-content {
   }
 }
 
-@media screen and (max-width:500px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
-
 
 @media screen and (max-width:400px) {
   .hero-content h1 {
@@ -2529,24 +2477,11 @@ html.no-csstransitions .hero-content {
     
 }
 
-@media screen and (max-width:400px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
-
-
 @media screen and (max-width:360px) {
   .hero-content h1 {
     font-size: 3.8rem;
   }
 
-}
-
-@media screen and (max-width:360px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
 }
 
 
