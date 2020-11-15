@@ -2338,6 +2338,7 @@ html.no-csstransitions .hero-content {
   .hero-content h1 {
     font-size: 6.3rem;
   }
+}
 
   .hero-content h1::before {
     width: 6rem;
