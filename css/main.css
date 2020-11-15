@@ -2332,6 +2332,11 @@ html.no-csstransitions .hero-content {
  * ------------------------------------------------------------------- */
 
 
+@media screen and (max-width:800px) {
+  .s-hero {
+    background-color: #f9edec;
+  }
+}
 
 
 @media screen and (max-width:1800px) {
@@ -2350,6 +2355,7 @@ html.no-csstransitions .hero-content {
 @media screen and (max-width:1700px) {
   .hero-content {
     max-width: 1200px;
+    
   }
 
 }
@@ -2359,6 +2365,7 @@ html.no-csstransitions .hero-content {
 @media screen and (max-width:1500px) {
   .hero-content {
     max-width: 1000px;
+      
   }
 
 }
@@ -2478,6 +2485,13 @@ html.no-csstransitions .hero-content {
     font-size: 3.8rem;
   }
 
+}
+
+
+@media screen and (max-width:400px) {
+  .s-hero {
+    background-image: url(/images/hero-bg-400.jpg);
+  }
 }
 
 
