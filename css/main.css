@@ -2332,11 +2332,6 @@ html.no-csstransitions .hero-content {
  * ------------------------------------------------------------------- */
 
 
-@media screen and (max-width:1800px) {
-  .s-hero {
-      background-color: #f8edeb;
-  }
-}
 
 
 @media screen and (max-width:1800px) {
