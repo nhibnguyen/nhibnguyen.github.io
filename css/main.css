@@ -1743,7 +1743,7 @@ input::-moz-focus-inner {
     padding-bottom: 1.4rem;
     letter-spacing: 5px; 
     text-transform: uppercase;
-  margin: 0;
+  margin: 0px 25px;
 }
 
 .header-nav a {
@@ -1757,8 +1757,8 @@ input::-moz-focus-inner {
 
 .header-nav li {
   display: inline-block;
-  padding-left: 60px;
-  margin: 0 rem;
+  padding-left: 35px;
+  margin: 0rem;
 }
 
 /* ------------------------------------------------------------------- 
@@ -1875,7 +1875,7 @@ input::-moz-focus-inner {
  * responsive:
  * header
  * ------------------------------------------------------------------- */
-@media screen and (max-width:1700px) {
+@media screen and (max-width:2550px) {
   .header-logo {
     left: 6rem;
   }
@@ -1900,7 +1900,7 @@ input::-moz-focus-inner {
 
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:990px) {
   .s-header {
     top: 2rem;
     height: 8rem;
@@ -2339,7 +2339,7 @@ html.no-csstransitions .hero-content {
 }
 
 
-@media screen and (max-width:1800px) {
+@media screen and (max-width:2500px) {
   .hero-content h1 {
     font-size: 6.3rem;
   }
@@ -2354,7 +2354,7 @@ html.no-csstransitions .hero-content {
 
 @media screen and (max-width:1700px) {
   .hero-content {
-    max-width: 1200px;
+    max-width: 1000px;
     
   }
 
@@ -2364,18 +2364,29 @@ html.no-csstransitions .hero-content {
 
 @media screen and (max-width:1500px) {
   .hero-content {
-    max-width: 1000px;
+    max-width: 1100px;
       
   }
 
 }
     
+
+@media screen and (max-width:2500px) {
+  .hero-content {
+    max-width: 1750px;
     
+  }
+
+}
+    
+
+
+
 
 
 @media screen and (max-width:1300px) {
   .hero-content {
-    max-width: 1200px;
+    max-width: 1000px;
   }
 
   .hero-content h1 {
@@ -2488,31 +2499,6 @@ html.no-csstransitions .hero-content {
 }
 
 
-@media screen and (max-width:500px) {
-  .s-hero {
-    background-image: url(/images/hero-bg-600.jpg);
-  }
-}
-
-
-@media screen and (max-width:400px) {
-  .s-hero {
-    background-image: url(/images/hero-bg-600.jpg);
-  }
-}
-
-
-@media screen and (max-width:600px) {
-  .s-hero {
-    background-image: url(/images/hero-bg-600.jpg);
-  }
-}
-
-@media screen and (max-width:360px) {
-  .s-hero {
-    background-image: url(/images/hero-bg-600.jpg);
-  }
-}
 
 
 /* ===================================================================
